@@ -1,0 +1,57 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED001</CSCEdition>
+    <Country>Poland</Country>
+    <CountryISO>PL</CountryISO>
+    <Region>EUR</Region>
+    <SalesCode>XEO</SalesCode>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Sound>
+        <KeyTone>
+          <KeyVolume>3</KeyVolume>
+        </KeyTone>
+      </Sound>
+      <Phone>
+        <DefLanguage>pl_PL</DefLanguage>
+        <DefLanguageNoSIM>pl_PL</DefLanguageNoSIM>
+        <T9Enabling>enable</T9Enabling>
+        <T9Language>polish</T9Language>
+        <KeypadType>qwerty</KeypadType>
+        <DateTimeFormat>
+          <DateFormat>ddmmyyyy</DateFormat>
+          <TimeFormat>24h</TimeFormat>
+        </DateTimeFormat>
+        <WeekendSetting>satsun</WeekendSetting>
+        <UnknownSource>off</UnknownSource>
+      </Phone>
+      <Security />
+    </Main>
+    <Calendar>
+      <StartDay>monday</StartDay>
+    </Calendar>
+    <Wifi>
+      <WifiEnableStatus>off</WifiEnableStatus>
+    </Wifi>
+    <Browser>
+      <NbBookmark>2</NbBookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>no</Editable>
+        <BookmarkName>Samsung Apps</BookmarkName>
+        <URL>http://m.samsungapps.pl</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>no</Editable>
+        <BookmarkName>Yahoo!</BookmarkName>
+        <URL>http://m.yahoo.com/?tsrc=samsungbm</URL>
+      </Bookmark>
+      <eManual>
+        <URL>http://www.samsung.com/m-manual/common</URL>
+      </eManual>
+    </Browser>
+  </Settings>
+</CustomerData>

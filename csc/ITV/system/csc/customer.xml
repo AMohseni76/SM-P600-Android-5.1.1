@@ -1,0 +1,59 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED001</CSCEdition>
+    <Country>ITALY</Country>
+    <CountryISO>IT</CountryISO>
+    <Region>EUR</Region>
+    <SalesCode>ITV</SalesCode>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Sound>
+        <KeyTone>
+          <KeyVolume>1</KeyVolume>
+        </KeyTone>
+        <TouchTone>off</TouchTone>
+      </Sound>
+      <Phone>
+        <DefLanguage>it_IT</DefLanguage>
+        <DefLanguageNoSIM>it_IT</DefLanguageNoSIM>
+        <T9Enabling>enable</T9Enabling>
+        <T9Language>italian</T9Language>
+        <DateTimeFormat>
+          <DateFormat>ddmmyyyy</DateFormat>
+          <TimeFormat>24h</TimeFormat>
+          <TimezoneUpdate>off</TimezoneUpdate>
+        </DateTimeFormat>
+        <VisiblePassword>off</VisiblePassword>
+        <SmartStay>on</SmartStay>
+      </Phone>
+      <Security />
+    </Main>
+    <Calendar>
+      <StartDay>monday</StartDay>
+    </Calendar>
+    <NbFOTA>1</NbFOTA>
+    <FOTA>
+      <FotaBearer>wifi_dedicated</FotaBearer>
+    </FOTA>
+    <Browser>
+      <NbBookmark>2</NbBookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>no</Editable>
+        <BookmarkName>Contenuti e Servizi</BookmarkName>
+        <URL>http://content.samsung.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>no</Editable>
+        <BookmarkName>Bing</BookmarkName>
+        <URL>http://www.bing.com/?PC=SMSM&amp;FORM=MBDPB</URL>
+      </Bookmark>
+      <eManual>
+        <URL>http://www.samsung.com/m-manual/common</URL>
+      </eManual>
+    </Browser>
+  </Settings>
+</CustomerData>

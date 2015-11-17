@@ -1,0 +1,9 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeauture>
+  <FeatureSet>
+    <CscFeature_GMS_ReplaceGMailBrandForGermany>true</CscFeature_GMS_ReplaceGMailBrandForGermany>
+    <CscFeature_Web_EnableAutoSimHomeUrlInProfile>TRUE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
+    <CscFeature_Sip_DisableAutoCorrection_DA>false</CscFeature_Sip_DisableAutoCorrection_DA>
+    <CscFeature_Sip_ApplyAutoCorrectionPatent>true</CscFeature_Sip_ApplyAutoCorrectionPatent>
+  </FeatureSet>
+</SamsungMobileFeauture>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED0008</CSCEdition>
+    <Country>SPAIN</Country>
+    <CountryISO>ES</CountryISO>
+    <Region>EUR</Region>
+    <SalesCode>PHE</SalesCode>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Phone>
+        <DefLanguage>es_ES</DefLanguage>
+        <DefLanguageNoSIM>es_ES</DefLanguageNoSIM>
+        <T9Enabling>enable</T9Enabling>
+        <T9Language>spanish</T9Language>
+        <WorldTime>
+          <Sign>+</Sign>
+          <TimeDiff>1</TimeDiff>
+          <City>Madrid</City>
+        </WorldTime>
+        <DateTimeFormat>
+          <DateFormat>ddmmyyyy</DateFormat>
+          <TimeFormat>24h</TimeFormat>
+        </DateTimeFormat>
+      </Phone>
+      <Security />
+    </Main>
+    <Calendar>
+      <StartDay>monday</StartDay>
+    </Calendar>
+    <Browser>
+      <NbBookmark>3</NbBookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>no</Editable>
+        <BookmarkName>Samsung Apps</BookmarkName>
+        <URL>http://m.es.samsungapps.com</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>no</Editable>
+        <BookmarkName>Yahoo!</BookmarkName>
+        <URL>https://yahoo.com/?.tsrc=samsungbm</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <Editable>no</Editable>
+        <BookmarkName>Bing Search</BookmarkName>
+        <URL>http://www.bing.com/?PC=SMSM&amp;FORM=MBDPB</URL>
+      </Bookmark>
+      <eManual>
+        <URL>http://www.samsung.com/m-manual/common</URL>
+      </eManual>
+    </Browser>
+  </Settings>
+</CustomerData>

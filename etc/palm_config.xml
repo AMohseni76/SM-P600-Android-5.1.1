@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<palmmotion>
+    <palmconfigs deviceName="lt03wifi" 
+         thresholdPalmCount="3"
+         thresholdMajorTouch="1000.0"
+         thresholdMajorSweepPortrait="100.0"
+         thresholdMajorSweepLandscape="50.0"
+         thresholdEccenSweepPortrait="1.5"
+         thresholdEccenSweepLandscape="1.5"
+         ignoreCheckMajorSweepEntry="false"
+        />
+</palmmotion>
+

@@ -1,0 +1,17 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-P600</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>P600OXA</CSCName>
+	<CSCVersion>DOJ3</CSCVersion>
+	<NbCustomer>6</NbCustomer>
+<!--	<CustomerData src="/Customer/BTU/customer.xml" />-->
+<!--	<CustomerData src="/Customer/DBT/customer.xml" />-->
+<!--	<CustomerData src="/Customer/ITV/customer.xml" />-->
+	<CustomerData src="/Customer/PHE/customer.xml" />
+<!--	<CustomerData src="/Customer/XEO/customer.xml" />-->
+<!--	<CustomerData src="/Customer/XEF/customer.xml" />-->
+	</CustomerDataSet>
+</SW-Configuration>
